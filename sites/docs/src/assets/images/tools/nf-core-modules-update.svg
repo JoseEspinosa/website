@@ -1,121 +1,120 @@
-<svg class="rich-terminal" viewBox="0 0 1238 440.4" xmlns="http://www.w3.org/2000/svg">
+<svg class="rich-terminal" viewBox="0 0 1238 464.79999999999995" xmlns="http://www.w3.org/2000/svg">
     <!-- Generated with Rich https://www.textualize.io -->
+    <!--
+    Embedded by rich-codex, subset to the characters used above: Fira Code.
+    Copyright (c) 2014, The Fira Code Project Authors (https://github.com/tonsky/FiraCode)
+    Licensed under the SIL Open Font License, Version 1.1 (https://scripts.sil.org/OFL)
+    -->
     <style>
 
     @font-face {
         font-family: "Fira Code";
-        src: local("FiraCode-Regular"),
-                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
-                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        src: url("data:font/woff2;base64,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") format("woff2");
         font-style: normal;
         font-weight: 400;
     }
-    @font-face {
-        font-family: "Fira Code";
-        src: local("FiraCode-Bold"),
-                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
-                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
-        font-style: bold;
-        font-weight: 700;
-    }
 
-    .terminal-60288037-matrix {
+    .rich-codex-3597080428-matrix {
         font-family: Fira Code, monospace;
         font-size: 20px;
         line-height: 24.4px;
         font-variant-east-asian: full-width;
     }
 
-    .terminal-60288037-title {
+    .rich-codex-3597080428-title {
         font-size: 18px;
         font-weight: bold;
         font-family: arial;
     }
 
-    .terminal-60288037-r1 { fill: #c5c8c6 }
-.terminal-60288037-r2 { fill: #98a84b }
-.terminal-60288037-r3 { fill: #9a9b99 }
-.terminal-60288037-r4 { fill: #608ab1 }
-.terminal-60288037-r5 { fill: #d0b344 }
+    .rich-codex-3597080428-r1 { fill: #c5c8c6 }
+.rich-codex-3597080428-r2 { fill: #98a84b }
+.rich-codex-3597080428-r3 { fill: #9a9b99 }
+.rich-codex-3597080428-r4 { fill: #608ab1 }
+.rich-codex-3597080428-r5 { fill: #d0b344 }
     </style>
 
     <defs>
-    <clipPath id="terminal-60288037-clip-terminal">
-      <rect x="0" y="0" width="1219.0" height="389.4" />
+    <clipPath id="rich-codex-3597080428-clip-terminal">
+      <rect x="0" y="0" width="1219.0" height="413.79999999999995" />
     </clipPath>
-    <clipPath id="terminal-60288037-line-0">
+    <clipPath id="rich-codex-3597080428-line-0">
     <rect x="0" y="1.5" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-60288037-line-1">
+<clipPath id="rich-codex-3597080428-line-1">
     <rect x="0" y="25.9" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-60288037-line-2">
+<clipPath id="rich-codex-3597080428-line-2">
     <rect x="0" y="50.3" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-60288037-line-3">
+<clipPath id="rich-codex-3597080428-line-3">
     <rect x="0" y="74.7" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-60288037-line-4">
+<clipPath id="rich-codex-3597080428-line-4">
     <rect x="0" y="99.1" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-60288037-line-5">
+<clipPath id="rich-codex-3597080428-line-5">
     <rect x="0" y="123.5" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-60288037-line-6">
+<clipPath id="rich-codex-3597080428-line-6">
     <rect x="0" y="147.9" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-60288037-line-7">
+<clipPath id="rich-codex-3597080428-line-7">
     <rect x="0" y="172.3" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-60288037-line-8">
+<clipPath id="rich-codex-3597080428-line-8">
     <rect x="0" y="196.7" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-60288037-line-9">
+<clipPath id="rich-codex-3597080428-line-9">
     <rect x="0" y="221.1" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-60288037-line-10">
+<clipPath id="rich-codex-3597080428-line-10">
     <rect x="0" y="245.5" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-60288037-line-11">
+<clipPath id="rich-codex-3597080428-line-11">
     <rect x="0" y="269.9" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-60288037-line-12">
+<clipPath id="rich-codex-3597080428-line-12">
     <rect x="0" y="294.3" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-60288037-line-13">
+<clipPath id="rich-codex-3597080428-line-13">
     <rect x="0" y="318.7" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-60288037-line-14">
+<clipPath id="rich-codex-3597080428-line-14">
     <rect x="0" y="343.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="rich-codex-3597080428-line-15">
+    <rect x="0" y="367.5" width="1220" height="24.65"/>
             </clipPath>
     </defs>
 
-    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1236" height="438.4" rx="8"/>
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1236" height="462.8" rx="8"/>
             <g transform="translate(26,22)">
             <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
             <circle cx="22" cy="0" r="7" fill="#febc2e"/>
             <circle cx="44" cy="0" r="7" fill="#28c840"/>
             </g>
         
-    <g transform="translate(9, 41)" clip-path="url(#terminal-60288037-clip-terminal)">
+    <g transform="translate(9, 41)" clip-path="url(#rich-codex-3597080428-clip-terminal)">
     
-    <g class="terminal-60288037-matrix">
-    <text class="terminal-60288037-r1" x="0" y="20" textLength="524.6" clip-path="url(#terminal-60288037-line-0)">$ nf-core modules update --all --no-preview</text><text class="terminal-60288037-r1" x="1220" y="20" textLength="12.2" clip-path="url(#terminal-60288037-line-0)">
-</text><text class="terminal-60288037-r1" x="1220" y="44.4" textLength="12.2" clip-path="url(#terminal-60288037-line-1)">
-</text><text class="terminal-60288037-r1" x="1220" y="68.8" textLength="12.2" clip-path="url(#terminal-60288037-line-2)">
-</text><text class="terminal-60288037-r2" x="0" y="93.2" textLength="561.2" clip-path="url(#terminal-60288037-line-3)">                                          ,--.</text><text class="terminal-60288037-r3" x="561.2" y="93.2" textLength="12.2" clip-path="url(#terminal-60288037-line-3)">/</text><text class="terminal-60288037-r2" x="573.4" y="93.2" textLength="36.6" clip-path="url(#terminal-60288037-line-3)">,-.</text><text class="terminal-60288037-r1" x="1220" y="93.2" textLength="12.2" clip-path="url(#terminal-60288037-line-3)">
-</text><text class="terminal-60288037-r4" x="0" y="117.6" textLength="500.2" clip-path="url(#terminal-60288037-line-4)">          ___     __   __   __   ___     </text><text class="terminal-60288037-r2" x="500.2" y="117.6" textLength="134.2" clip-path="url(#terminal-60288037-line-4)">/,-._.--~\ </text><text class="terminal-60288037-r1" x="1220" y="117.6" textLength="12.2" clip-path="url(#terminal-60288037-line-4)">
-</text><text class="terminal-60288037-r4" x="0" y="142" textLength="500.2" clip-path="url(#terminal-60288037-line-5)">    |\ | |__  __ /  ` /  \ |__) |__      </text><text class="terminal-60288037-r5" x="500.2" y="142" textLength="85.4" clip-path="url(#terminal-60288037-line-5)">   }  {</text><text class="terminal-60288037-r1" x="1220" y="142" textLength="12.2" clip-path="url(#terminal-60288037-line-5)">
-</text><text class="terminal-60288037-r4" x="0" y="166.4" textLength="500.2" clip-path="url(#terminal-60288037-line-6)">    | \| |       \__, \__/ |  \ |___     </text><text class="terminal-60288037-r2" x="500.2" y="166.4" textLength="122" clip-path="url(#terminal-60288037-line-6)">\`-._,-`-,</text><text class="terminal-60288037-r1" x="1220" y="166.4" textLength="12.2" clip-path="url(#terminal-60288037-line-6)">
-</text><text class="terminal-60288037-r2" x="0" y="190.8" textLength="610" clip-path="url(#terminal-60288037-line-7)">                                          `._,._,'</text><text class="terminal-60288037-r1" x="1220" y="190.8" textLength="12.2" clip-path="url(#terminal-60288037-line-7)">
-</text><text class="terminal-60288037-r1" x="1220" y="215.2" textLength="12.2" clip-path="url(#terminal-60288037-line-8)">
-</text><text class="terminal-60288037-r3" x="0" y="239.6" textLength="414.8" clip-path="url(#terminal-60288037-line-9)">    nf-core/tools version 3.5.2 - </text><text class="terminal-60288037-r3" x="414.8" y="239.6" textLength="195.2" clip-path="url(#terminal-60288037-line-9)">https://nf-co.re</text><text class="terminal-60288037-r1" x="1220" y="239.6" textLength="12.2" clip-path="url(#terminal-60288037-line-9)">
-</text><text class="terminal-60288037-r1" x="1220" y="264" textLength="12.2" clip-path="url(#terminal-60288037-line-10)">
-</text><text class="terminal-60288037-r1" x="1220" y="288.4" textLength="12.2" clip-path="url(#terminal-60288037-line-11)">
-</text><text class="terminal-60288037-r4" x="0" y="312.8" textLength="97.6" clip-path="url(#terminal-60288037-line-12)">INFO    </text><text class="terminal-60288037-r2" x="109.8" y="312.8" textLength="292.8" clip-path="url(#terminal-60288037-line-12)">'modules/nf-core/abacas'</text><text class="terminal-60288037-r1" x="402.6" y="312.8" textLength="817.4" clip-path="url(#terminal-60288037-line-12)"> is already up to date                                             </text><text class="terminal-60288037-r1" x="1220" y="312.8" textLength="12.2" clip-path="url(#terminal-60288037-line-12)">
-</text><text class="terminal-60288037-r4" x="0" y="337.2" textLength="97.6" clip-path="url(#terminal-60288037-line-13)">INFO    </text><text class="terminal-60288037-r1" x="97.6" y="337.2" textLength="122" clip-path="url(#terminal-60288037-line-13)"> Updating </text><text class="terminal-60288037-r2" x="219.6" y="337.2" textLength="195.2" clip-path="url(#terminal-60288037-line-13)">'nf-core/fastqc'</text><text class="terminal-60288037-r1" x="1220" y="337.2" textLength="12.2" clip-path="url(#terminal-60288037-line-13)">
-</text><text class="terminal-60288037-r4" x="0" y="361.6" textLength="97.6" clip-path="url(#terminal-60288037-line-14)">INFO    </text><text class="terminal-60288037-r1" x="97.6" y="361.6" textLength="122" clip-path="url(#terminal-60288037-line-14)"> Updating </text><text class="terminal-60288037-r2" x="219.6" y="361.6" textLength="207.4" clip-path="url(#terminal-60288037-line-14)">'nf-core/multiqc'</text><text class="terminal-60288037-r1" x="1220" y="361.6" textLength="12.2" clip-path="url(#terminal-60288037-line-14)">
-</text><text class="terminal-60288037-r4" x="0" y="386" textLength="97.6" clip-path="url(#terminal-60288037-line-15)">INFO    </text><text class="terminal-60288037-r1" x="97.6" y="386" textLength="1110.2" clip-path="url(#terminal-60288037-line-15)"> Updates complete ✨                                                                        </text><text class="terminal-60288037-r1" x="1220" y="386" textLength="12.2" clip-path="url(#terminal-60288037-line-15)">
+    <g class="rich-codex-3597080428-matrix">
+    <text class="rich-codex-3597080428-r1" x="0" y="20" textLength="524.6" clip-path="url(#rich-codex-3597080428-line-0)">$ nf-core modules update --all --no-preview</text><text class="rich-codex-3597080428-r1" x="1220" y="20" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-0)">
+</text><text class="rich-codex-3597080428-r1" x="1220" y="44.4" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-1)">
+</text><text class="rich-codex-3597080428-r1" x="1220" y="68.8" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-2)">
+</text><text class="rich-codex-3597080428-r2" x="0" y="93.2" textLength="561.2" clip-path="url(#rich-codex-3597080428-line-3)">                                          ,--.</text><text class="rich-codex-3597080428-r3" x="561.2" y="93.2" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-3)">/</text><text class="rich-codex-3597080428-r2" x="573.4" y="93.2" textLength="36.6" clip-path="url(#rich-codex-3597080428-line-3)">,-.</text><text class="rich-codex-3597080428-r1" x="1220" y="93.2" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-3)">
+</text><text class="rich-codex-3597080428-r4" x="0" y="117.6" textLength="500.2" clip-path="url(#rich-codex-3597080428-line-4)">          ___     __   __   __   ___     </text><text class="rich-codex-3597080428-r2" x="500.2" y="117.6" textLength="134.2" clip-path="url(#rich-codex-3597080428-line-4)">/,-._.--~\ </text><text class="rich-codex-3597080428-r1" x="1220" y="117.6" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-4)">
+</text><text class="rich-codex-3597080428-r4" x="0" y="142" textLength="500.2" clip-path="url(#rich-codex-3597080428-line-5)">    |\ | |__  __ /  ` /  \ |__) |__      </text><text class="rich-codex-3597080428-r5" x="500.2" y="142" textLength="85.4" clip-path="url(#rich-codex-3597080428-line-5)">   }  {</text><text class="rich-codex-3597080428-r1" x="1220" y="142" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-5)">
+</text><text class="rich-codex-3597080428-r4" x="0" y="166.4" textLength="500.2" clip-path="url(#rich-codex-3597080428-line-6)">    | \| |       \__, \__/ |  \ |___     </text><text class="rich-codex-3597080428-r2" x="500.2" y="166.4" textLength="122" clip-path="url(#rich-codex-3597080428-line-6)">\`-._,-`-,</text><text class="rich-codex-3597080428-r1" x="1220" y="166.4" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-6)">
+</text><text class="rich-codex-3597080428-r2" x="0" y="190.8" textLength="610" clip-path="url(#rich-codex-3597080428-line-7)">                                          `._,._,'</text><text class="rich-codex-3597080428-r1" x="1220" y="190.8" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-7)">
+</text><text class="rich-codex-3597080428-r1" x="1220" y="215.2" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-8)">
+</text><text class="rich-codex-3597080428-r3" x="0" y="239.6" textLength="414.8" clip-path="url(#rich-codex-3597080428-line-9)">    nf-core/tools version 4.2.2 - </text><text class="rich-codex-3597080428-r3" x="414.8" y="239.6" textLength="195.2" clip-path="url(#rich-codex-3597080428-line-9)">https://nf-co.re</text><text class="rich-codex-3597080428-r1" x="1220" y="239.6" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-9)">
+</text><text class="rich-codex-3597080428-r1" x="1220" y="264" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-10)">
+</text><text class="rich-codex-3597080428-r1" x="1220" y="288.4" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-11)">
+</text><text class="rich-codex-3597080428-r4" x="0" y="312.8" textLength="97.6" clip-path="url(#rich-codex-3597080428-line-12)">INFO    </text><text class="rich-codex-3597080428-r2" x="109.8" y="312.8" textLength="292.8" clip-path="url(#rich-codex-3597080428-line-12)">'modules/nf-core/abacas'</text><text class="rich-codex-3597080428-r1" x="402.6" y="312.8" textLength="817.4" clip-path="url(#rich-codex-3597080428-line-12)"> is already up to date                                             </text><text class="rich-codex-3597080428-r1" x="1220" y="312.8" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-12)">
+</text><text class="rich-codex-3597080428-r4" x="0" y="337.2" textLength="97.6" clip-path="url(#rich-codex-3597080428-line-13)">INFO    </text><text class="rich-codex-3597080428-r1" x="97.6" y="337.2" textLength="122" clip-path="url(#rich-codex-3597080428-line-13)"> Updating </text><text class="rich-codex-3597080428-r2" x="219.6" y="337.2" textLength="195.2" clip-path="url(#rich-codex-3597080428-line-13)">'nf-core/fastqc'</text><text class="rich-codex-3597080428-r1" x="1220" y="337.2" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-13)">
+</text><text class="rich-codex-3597080428-r4" x="0" y="361.6" textLength="97.6" clip-path="url(#rich-codex-3597080428-line-14)">INFO    </text><text class="rich-codex-3597080428-r1" x="97.6" y="361.6" textLength="122" clip-path="url(#rich-codex-3597080428-line-14)"> Updating </text><text class="rich-codex-3597080428-r2" x="219.6" y="361.6" textLength="207.4" clip-path="url(#rich-codex-3597080428-line-14)">'nf-core/multiqc'</text><text class="rich-codex-3597080428-r1" x="1220" y="361.6" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-14)">
+</text><text class="rich-codex-3597080428-r4" x="0" y="386" textLength="97.6" clip-path="url(#rich-codex-3597080428-line-15)">INFO    </text><text class="rich-codex-3597080428-r1" x="97.6" y="386" textLength="1122.4" clip-path="url(#rich-codex-3597080428-line-15)"> Updates complete ✨                                                                        </text><text class="rich-codex-3597080428-r1" x="1220" y="386" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-15)">
+</text><text class="rich-codex-3597080428-r1" x="1220" y="410.4" textLength="12.2" clip-path="url(#rich-codex-3597080428-line-16)">
 </text>
     </g>
     </g>

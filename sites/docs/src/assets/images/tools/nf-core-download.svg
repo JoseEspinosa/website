@@ -1,141 +1,140 @@
-<svg class="rich-terminal" viewBox="0 0 1238 562.4" xmlns="http://www.w3.org/2000/svg">
+<svg class="rich-terminal" viewBox="0 0 1238 586.8" xmlns="http://www.w3.org/2000/svg">
     <!-- Generated with Rich https://www.textualize.io -->
+    <!--
+    Embedded by rich-codex, subset to the characters used above: Fira Code.
+    Copyright (c) 2014, The Fira Code Project Authors (https://github.com/tonsky/FiraCode)
+    Licensed under the SIL Open Font License, Version 1.1 (https://scripts.sil.org/OFL)
+    -->
     <style>
 
     @font-face {
         font-family: "Fira Code";
-        src: local("FiraCode-Regular"),
-                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
-                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        src: url("data:font/woff2;base64,d09GMgABAAAAACtsABEAAAAAW0gAACsLAAYAgwAAAAAAAAAAAAAAAAAAAAAAAAAAGigbIByhQAZgAIFoCIEoCZwVEQgK5BDYXAE2AiQDgXwLgXwABCAFhxgHIAyBVht0UyVsVw+gOzhcpFrVmyhKBmli8f8fk5MxBDNgU+0fijQwEkoZUViwHFMLDsyiVspVttG0tjJjH4+Whlcz1ObGB3GLmsNisT4qFGruD87A/IORCGujCsUXX4WacskHpvIaOkV1qVks1rP/KJ9fsl97nq+GHx95oGlHaOyTXP952taf+2YYFO0t7DGJVcwalQU7kFah/ZT5M9uflfJQv1/5p/vCYGVVHMsYB6QBJQsdFRcnAMiIKAJL8GFm3wBtMz5UQLBwc3szBwpiInVUCtpIlNWYcxZYNaxe6zpdlYssnd8EwDXv23hgadPman7iiUQx/W99qLOakWWMTBiyIzuMBzpgqL4q97vmuN78hwXoAgOn0v+rMyXHDnwZX4epnW8tEEtWckBY31+S3JZ0WJDAdqjAsA0G5/SWqWnL9H4rQa1ZcrxgPYSNHqW3q+IJgfEfdSYPU8sqPPUXyC7QASp20rIvJf2idPFlmG+YtU1POvb/f63y3vveh2rc6hmuIe4NqmWomQlQhfr0mk7bkF42MihcVHyMjpFAwfJ/qpbtfAyxhKRLPG5Ml3LRSHJMVeNyOBiAnBlQBAFSKxLafQwbKGmDyE3czCDvA7VyCFkOIVEXuNKFmDun2p2rc+cyvt7PRefObX2dSxeVbQzTgU+0dV0swQui+978T2fS65Y3G0TESZAQuvT8G7vfz94/uGy9pbpERkGkDE2wJP0veW9PECDR6rlkeGQPkkGDlCpDdHQYAihky0U7d/ePIw4PwPY2AMBa92acQijdM1wL+eTiaWjB22FliwRQkrsDLtyTrzGhG+sswrbdfSJ1bXafqKkxOi7qb41GROZ2R8wst0c98hCbgf5b9ZnwFHT/sv6F/uX9x0G8WVeile65QsKJY74I9EOHfxmro0DQj4MmIZsDR6yCDh9OwvgMfB6+BF/163XDJuoP4TaAUpI0OyllExVR0SqlU6FarQbN2kg66RkMGzMJYEwsAEIALgRKysSEFTgBx2M5jjsZYPe4D0NByigJZw9unvuYuCbT52flU8wzqHRZ2Tlqo3OVgnLM+LpzlbMq4tedpybzsXoYgTf98/qrDCzrbdPN1x5oL/aK3tuv6Y+OKrZ/uS6O2YjZPnAwmAwWgEd+Ygn4GMTirvpBaiA9UFsoEiqGpkJ3QS/DAmFkmBiWDeuDVcCaZGkdbBfsr74EbgEfuOysBc8i1aLYou6MPss/HAsW7IuQRpW9AEwpQb0GjZoMGVaG9AdSrUatOgMGEUG5CpWqWNn402j87/YP6gmaaMURAIxCAQ5JRzoBBJAhpLmoakMCNq1aHSgWCcMC3qRek5i4TPDcePokw8sNoRy0aYGQ3flh6VfJJMqk1qCbkSuPcZEEW3IEXWaYWGeGY0AySky2C0gBOZAv1Vtxno2zviOCdAWqdBrlxKE5j0IAt5pmvyJJ1skMTe845KfZZMGr81+dXtE1OSj+qK94+t66Je8C7OBk2ewsjObxbPovHzhd7y7mt0EMmFtESFIKA8wE2IUZJnW3Sfr2wLtOj/Pw0aidFD6WFkkkSkgJFk2Zggw8hSXINOVAvix4t6a2fk09gI2LjIyUkEZYNGMGcvAMNkKuKQfy5cGrdOE12cSqRSoqmqUKFu21F/LxXqyCAjMD+QrhU+0kp4YFvLjWD7YfyFPYrUAFwSLFEsCZxouJqI+NxcAEai0x7Us4pffivMnz5KzdimCVYkBizUhV49U+mlf9L2DqtVrMFuxh+eGEVz52L06cnUTrhKnWhIkAYhLT6oex+Brjs7Z4VZ5gLFEWKOiwK+gIOzha7UUgphC17aLY6BaTTu6ybzWYYXvQ1eIiagG7oBx46aQMut4+7NTe2z6e9XelprPdxVo/wnD0FOJMhxhrK/UT5oIUJhRkaiWmXlWv0pftbufaGLDJ39BSbAquJlYJIKB4TeVBS381YYu2j2yyOpwVz4bWhgzQmo4QySxpvd9puSnKguT5yUKLJj1d/09eHfKkcG79PNPkq6/9U+uzw1PqY38Ad/NiKSiFJVJwSm3E0kvbhPcEpY9MYTDFxqCRjUk/LT60BRb+1tz3T+9r6btDecly6RgiQ8fs43XkxUjfiscxW9ZPdRNuD8xoLhh0VjHaaDjvQ2f02oV72UGExaAPJj/UJPWlHMCb1TW1WtNkw6YVL2oF7sCzrOxXLhJ9gdT1XrjfbMioj+U415Z46WQN0IV9abkqaBZmWE1VE1pnaibs46zRBa3GZPXO3p3DkytLk2W5DJcqC++RdXdTFKljMM3nBJe5x/M+9ntYhTbaYtjELXqEWDF3A21VQSr5XZeHhwowItmgUUkyPmbWoQNGt6fG89D95xWMGhO0LCSMw5xhHeXbKK4TI2cuH8WCG2eUcDcM8hv8+CDZoxKa1BQ/x0j27qDEOgJtBfT5OTVD0I+Z0Swtp3tCGxpAZ8ZwuWzD2I3UcnywQNny311gqMvXuNvf0wCpM/KHEmS/8YgYKGgobHQlXOXpFFviqTe+hfDGl0l44zMkf8hR4ob+FfQLSRVKKEdtOe8UF1DgugEOI0AS+USjveo36YdOocRKMGD9VTFyJBmT8hlsaT+AjRtgB2PleMS1soGEmZ98SQZBpo5jdqKJkZfQj36uA7umRZxwO0IMvyynlLwJkwxoGbkDMyvZ3ugj10WIwrzpUx0HM5JTikc6gS9TeKdla/ZxHR1HDH0kYK794QmRPvOfruC/9MLU52fP8C+eZy8x1CEcoR6RmPesRuLmiCG5po29h0HEGxvJZtQfLtjZJX2tfW2Ybs0Gvt4UJ5EB/4vvApwy+XbYRVVBm9Mrczp2tfWd2FLkoizuv6ugpdm03Rj49c3mVMoqZ3K5s1Y6CfFe9bTErnouimiUq9GgSQe9HsPGTJhiYuUWsOYAF/0HUKREqSrBRbsYDBq9ooWNV9DGPxz7Adj+z19Nh2fDUU88cN89d32F7RtcdS1snxcB1HROp+TqzuQtWvi4nrmLicRo3gb7Cx+sHqfEb0voaBrUL+XXw/9H2srwVa0WRNcwCLLbu59EMiCg4f5TQPZCI90VwM/sKBYLzJ1nI/H/EPkiFf/JihvPhs7/CGMQXvhWgQ+nYO39QOXhl+f6iP23MEV68Uri8UwTzbeJ7BprCW8I16QpgK4FVxHBvJpWJBArtqIE9AfS9oUZN6BPhOAy2R64XA2vkfDbPsiMhIPYk97uFzIg14Jj0V+zu/Ji7cxevYZnHJSJK37yHTMJ4bHf0xIlMi6iZVIwpI9kE0UG31016MHzbpp/lX4yr7WTlsrGW0qu499+pdyk18rHtzdcPB3u29v3b4pM8rFnPxgs4lLmYg5H5+MwRTqLA2TwgEUOEEZb2aKtHfSczZA4GSeEp55wrw+3MGaC0qpsXcRTRyaw6ziV5atqH5UYqnYgfQQZUZxWlIEWpB57UGXnqZqjZs5Yq8SqouJ0ElGMZrVx4KFGW8YI+nGIclXzlIuduetEyv9/zEaejyvSvONDZ+JYvahVUDz4KAw6xoSurKIK6nxUgHgbaeN1cwJCu0wkaabEdohqqVkd0Hm8xckpla+VQ8yKSjnd0ByuyUDRt+Ba6x7a+EG1+niymKwMhpg5Ug9oR+I1epc7UPfLLuZHFG4bouQ+qxlpKqaQJMtdgKYUWdSsTgfmCqRdnbdGrD60qcpGJoMb/O7OV3RQY6CszfdiIleyllU6LHgKDqGkC627piNOqXxLvKbLgPRZG5lD0tHDh28+067R2zR72cfI37zjP3y9Jo2t2D93gAze4HvMk5XE2tGNzKsgcZftGzjVxF0BJe+mqRNt0ptsOsPoeadYWTYZlgEhEhH6Y0lpc1QIR6wGPpuIJ+fMAL40RBIuFUz40DnETEZ2ffP0zKGlJUs0jbKDBB7gDoFYnyT7s+DOnJtxJ8UjFuxTwI3IwWzE/x8d3dKKEbIirB0pFCuIEoWgVJFQplBUV2TUUBTUVFTUUjTUVvRNDGUE8UdbKtWHb15QE7+yhxT/mCcYBX57T4LdwN93IccMV8JsZnHgiF7qrIQCcuiAAgeFEhQqUOiCQg8U+qAwAIUhaHEKrKUvmpUHJhUGMpSDABPlcBrDVXNwFpyVvGYBYNTcuwWJS1LnJw4TBgO0ZJdCtiY3InAmLkqWU9j6p2qrtXLSxIHFNfBK/40bzJATbBR7xNCoaeesEB0CAMD1DVnK6xRa/F3ZAmsYWTFEuHaQUtqhvrR2ebv2PWyiHVmqPiATie6gzlkCz57Su3Q2sj4a4XdNEa42V/YJw/MPQ/kRhIjxK0n9TefunJlcZY2P9tLUgLW0/+jnlEIt1aaCzSFZ8HOJqRZ3/oDqYm7kaF7M1BXeMYNIfNi3KcNAhbNXhOLHFqlfQRl6oczYP8goGU0UofA1HJiJgp2TZBnGJSM0OCTxi67qvQZQIYSLLYJPvrzskbLsLGmeiuJckkZhrVG4VSteQITDSsuZDMna0kTwoksDFBsSHZuGcuASQDeJ4U3wpZ77GmtiTfQqoF2c8iUVRy3vtjLMl01T3giZsMj3X9ZngF4TYb/T0HDT07aAFjWWRHSO6TszVo81rfM8BY88fa+86dh0J74qYcLDvupr4DHGHX8dPEXKMU209zHtexBXnjXne+iGC1GSWhn/oUj2YA6gTzFZ3IJalpRU3kQ2RpUjxzuy/yNGqUwto9Vs+posGZs0aavaolub4PgIG34bkWfaytGwKeoIuGOF2e9chiLzPHbO1OoevjS9pb4MR0nWx3w/Gy9o4OpwraDGMFnEzBmMazITGZQNFWDIMKyIRroJGFVEYyFghHFFNNFNwKRi+dQBQFeCaSya6SFgFovmzgQEJiya7yHAjBUWxbBPsdIG2boJsCsiRwh0g1MRLXQTsKgol7QDPXZBg92gxx5osBca7IMG+6HBAWh2BTPiR7nMSlIqgf2gQ4RcrzfQuSWcCYgiKuGoSii2AS8bVgIPq4GXa0R/hnXjGW2ohDZV4vu/goUDAoUDA4WDAoWDDYIOUQkdqhI/jIKDwwODIwKDIwODowyCjlYJHaNS8diSsNHthE7lqNCBdMOLNVbVcRS1ntJ5t79kPxNVjAgNgxUAsD8A+BtsgPwrJH4G2gTYgp0ZAIY+qCTZKcqIfmQHKr8Wwk6N31rRpXJpbniNwhAzmBZrsdNpiDXRNxVxBvTrpjIt7sweoyem6RoA4AJ4qsZc7oeYptFmzHMYq1n6JDBzw2OZx1I1OdRCZhhU8crIjizmMb+WjJJANdkK8d69qjG1m6aZ9O2EGZTSdo8yizGqUs+jrxFwWer7FacVu5WZMo3KqFaqSmY/qKKGZhKQeTBs1GM+EDwMIef7JB0ELF/YLD76kPtdppnKH0wXcw50NLwjQYlnwpqEeCNnB1QsYqqADu/L/Y8sECyZPJ3a2VIcJyO6a6gjx9G4bz5TLY15SPS4QWyNhE6d9V1BQFRt8rvDkHromIRFOD4VmSvxqTI7RYXEKo4IZ0CBQ/wiJCpq5HYf3gXdoJ51Shsqz3WlWckCXbPd8CTK1JUeqdG2CM4URofkQhpjA/pCWh53wORbiHmYx/SjmYvChVJJBcZo5uJyV6hNOvdcGXmSeN8NCClzOaD0Cp9yjC5RHwUDCNNHUx8SDfplUHjgHvI5n2S/xqT2OOywpVUKGFci6b3K9sPmFr5ZmA/W8tch5AgxuB6FGFAGFTgs8p9o7z1nnRzpT0xH+VOaxbxOLdKti8sRiBCNBwZIoWqpp4JmeaVfpQJi/sZc4qaifkUxH7ZtD952bx2D8Q6MS/Pmi5u9eMJB9YhHZfr550KCiScj0o8RUDu6cSQZfSq/OM5Bnj5fp+LxWqUQiLJJPmEOxcr0T1bhKEGKR51LTGXDNMk8V3P1JrFTCcOejLIYUENpaWYSaC5/06TCyEA+wRgNvMefBkgykqGLb3EQWoD2kIrBdRUfC1tbZIzFI2GYahiBficR52YG9LSzVA1r7YJ23OH7L2RZB/3BULS28fZWt6NdtgUItAbBgJhkkV7/jiqrJyZyl/K5xW1aqNSkvwlo4dbWpBWX17ohsyiMgALVJkWxw6iZvay3gbmUH1kWid78NEUID2W9Qhmzu4Ib3KSFi/g8u4T7LCdM1+VS+uHb5D1tSIxEZUM1AarTDpFktxnCCOEVJOoUXtOT3ZjOp7z5gNq4myPxwHYXRQO1yKQg2rpoQGTSfvmWK2xynih8kKDjkJu0iPlIkZRmtpI2IoWaKyLxKig+h9ZkCgXHA2xRyzSRI58LVUmomY4fu/0qo0K4KNDzWwWi9PgIZhZPQ71UOP6I46T0jhEt1fV0Ghqog6TSP0BqQqNQME9xtiddki7KRVlUCEmA9KiVSt3FYq6CJGdmp6cCc3M8eTBInOQFsqaQdavDiKE8wqdJX2xI/wYzhCRwpIj1rHZBgs+MTrMIqGfjxKJHX9d6NWXZ771JXcRkjMj3XS2jgmsZtJjV+dvnt7dx90oh5DVkrN7SmLo6Dmsm3oqIxF4Ff+i4B5pNjoyZxyS1HjmLoPItO7fy0FV8V1QgEhaPtND860YU7TYJoZQ0/WBOMjq1uipwU7BZNmF/NHKxIiRI6pqVstnBRP5IvOjukX868/SxZ8CczrAbEJJkucSQDiQ/72h64eL8peyfh7OKCozU5IS8D+fiuzfAJ4ajXr8Zw5mPBVNt9t7Jsdrbcy8sAwci9yp9gd3XkWm+79Yu9u3yjC53+gRjitWNLNEx7jo72M4/c2hxUG8BkfvbtvrmL19wU6h3pEAmt1+KyzFs5wiYqZll+dOqHWk5CzcD9kN2tZSSpixt2692JKOvU4DkVnDrDIh8hgamtWbwxnvKm9FsdLPt6e74LncSH4Sbr4PcydgxDiJ/73TjGMx8AHKvYvvdjh5U9NZreYQnuzZseLItL+pmCZGe7Om8PY+4+wbC6D47a/REIAadNoanx8WZOnlgvOH457ihbf/PCrls0eHS/nvposquEMkZzjHZWoy4xh3APB48fqTVtVdxVcc7wAf/X4Pi/07sP1LXVzB6FnS2Z7LEH7Cu1BXtfqIZ6/2RFCvSFNDI+3mrxZ0hCblxZExKLaPIzeB9WpXZla3NGz2bWNt+XRDDVucyiRsj4/PGlVocQdxLr/FMd9qTnDPiQ1qQTzbnzF8qam47X5xxvXlyy8bhrkG9oWtweKMrq0gO95S/gLywhPywfAvzlM9Cgieg4l9vQm78ChVPICO3vSL2H/IpAsBqynJqGGMTSzOye3v35L8zXwbj8+tSioObVwgd/FdL3Tc5ck/N7R3aUcRr4SGpln2zbTr1GbodoieM3Red2Dpj4C9Oj6Ys7W9t2KutNc/sBplbb2vxMq2u9cL80FJ8feootK2CUT5Vym9A9wmzKBHHAcnwA33Bj+mRgj8fdoycM5YKcxokhoatF6/Obz0Uilm4t94WZK7bsilC1MeNa9zeGLM4OSJf2tdWszW9/CO0rvXStaF/E6pUvkSLraU0Oee66Z4d68qE1SgqkpfNCD9MUg7casxdnBzL/Xm5teXMC8QXexToN4uGpyEznr9uaN1ExBTdi2l0vIet8Mxfhnu49ZbaulZE30D/u+7v6wpV6wxHSbZtxQwDtkZIwh7R7qGr5w5iaRBI7isnr+3CI+nr2fI1wkHT6S8bjlOiWzL6olD8Sq/i2dHYWLaBrTnUWKXjZRawt0nmMtKmDksq6qeXFXuP76sqaUzLKGuszimqLvw2ZLfsJiNKuEskGWid7Pp3w5/SuNgUXAY2hr///w3ipLenHhpGBoIwZEoYFqBgggDgwIc+3/rl9VREZH3aqheO98q97ebugUzu7T7TcyF5G+7etSI/NMFfe+jthZ07zpMRuahYxFhA2dRqF0HLzEAjBqgXhP7AoCX+kZWlVkMLSru4cJQkwo+MHmZ0ByXdzUHHOkjplvRoPi4tbIVwJoMjO+fYDuskCI7GJg+2TPshrc60q+VE8fGZWLFg3//c0cJj5AfkiigXinCLKvJD0LA9koQDr33s2GHeSeRXThpaI8BnYGPu/Hafwjx+7vvXuPbnuZbuxy/9lya0S+ebuhsams7NX2s423De8nPXrxvOrvL7HdOyzsBcnB6NX9rZ2jiTWroYKW3a4V3hgtG4UH1cqt2ylgoau7b2zPxQuhsFI+2gYsnw/PaUjK3w/tfdy4pt22hgL06PJC3taNusNxvt+x5XI/MjWrRX0rTz1VP2U9UeTku46pnW9gAKLNxO2fTkd5NvqQlHblUfRBaUNSdwUW7UjLAc+8w/xmjxeUn1D/t3VB0CSChm3oaOYE2FlhOFCihFpTto7PvZ4jJFblXTeXxe+9loIEKafX0MH0y8ihX1e7M27d3eUvit5tvn9YjfMhHV8fnxyUmZkUr7aaSdreO71JikpLgBhR9gtsGxHd4axd8jTu43TnT/xwUKHe1+OJ60O+W4A4Gos5mvc735CVxrAgFM3sB+d9wCVu6G1qLOQL6jwMrdUz6oY3X+4i9nvhsWDcdEb2vRl51PugBiRzsPD4/03O27CpvgK+szrSuZjHx7YZjd7467bJ4P20wOe4X+cEhP9/Ly8pdd/v7IH7y+rJepZ/3xuOxZoP0EJyLrIrywcknM3amjwFpUcI/jhLnK8TO41gSqNPlqdtIE/JvJElh0Wf3d5Bu4QO5kVUEwJm/MfzhuxsyaqpMoqDvqImQyhADU2Ui1L4LvkubzDiL+10Zx3a2r2a9SzGRJSbs6Tr//unGg0bYN03jiwOIvhgPBg+LC6vpCTTWVyClIECpPyzCua3U1hyWawRQxU18ax4ALTNp48Z3pOt2RW1nthc/jeNLcpAjKBCDuGDfWdE/klRXa1gmBYgw7LTq/V5eZWI8HCMmauOg5FiXke7Jhh34HfwK0lK0EZpsjlj/XNi/Townileryzny8PnT0QFVuwfZ5dWf3FU3W1uwq40xFeCYmu7tAyjGUxXb4UFSHGWUD3XV8RqIhLNlRipXmpaSuKS0uqi513QmTSDKm6ZkeYq/qtpqidn17R1+HT0jefgJR1i2rwKutSvzSRmRbckjcgFUnw4OkfnMqTmnL7JqmIp/U1tImmRBLIPNgYriYxEgcy+0SjgQ/TmK/yfKK4DEwfmi6P01iIaLgAM+A+LJQrbs3N5oSthb5f1lsy83tzFXL4HPl6Jflx8w36Tdn69ChQW8AIX63eGUii5C0ObPLOJ0ZFybmcqyOEyh41rC0rM4on2S4sjwSrQT5ritJXkw6yQMV5V/kI7XSuZNF04L4oGuQchMWc6LSyc9AkemmsT5df3alg4j8PfMLRvymizorKizjxdM0kSIeH4dC/dfHcAqr6VKOsZxucxzx7NRIIY+NQ+JlcrTVnmbfGt9sJSEZdGS1qFxjk2ojLKwfkyhJWb61vrkTwfH6ijUU75Q1gQa9YQ3KW0L5paUibs046hTIbKSXH1zGun6mUs3mqNRMlkrDYSs1iDgGNVlC9rBipozn90mbiMhYcpLEy14kAW5tCo3OBQDJUhpFayNpFNoaEiU5hXbTcV8uGSKx+pf1JFPTBbnvnHyPp/isp+rs7kHO1dRobUZmiO/GmUIY+DTnXoohRJSExfEkxuAdZeWCKBvHh8SwKQ2OvKkKn+7DDQq/p7wM88BQDYEgvHvu9DgtSXRhLSK9W9aN7kgl4+OxF/076Qq30z5dbl29buybbi/IhoPXUpCH/2yrjEsar321rCzmxQtBFAEE/vIM6di+tAvBC6aB+YeGL2RAhuSmCTf5BvIttyAFaRpWbKhjFjuQqMm+/bBKmWdy0kJ4HYpJjJtUZM+qyz2JzdHDy7zLzQCfFH2g/vxlKB+JGeBdCSvL1s9sDbMxGoDXUglVV2Xs1+9bkwVVe5eDbmRuHbPYnkSV+PbD61QFpdZFCG0FrBLFko1/4YscWGiX54edzK47mWHdXhYljIdHJ6iSfDND2empefFRxNQcAjWgbqfLrbSYCVzh0Cld8iHt4Phcr5OpwTl1UpKQ1LMhsWj7Umq1DNdOZ0RUV/DVM+I0usO0wLdASs3+PG4ZtW4Kmgsb2zuAKiWCJs/T4CPiq9984QCZnxcPFPvDKD6zHSSwYNYcFcjFCXmqSDrz6kkSmRddF3EvuqiUm5BDPxTJwvF42khOTt2KEMRB1/fG9649rt+N3119/bDrGb8KVL4fh3yoR/69NxZ63we8+/Rtf1f2KN9HddLmwBBEercLqCqj+Gft1u3tHzK+Sgfbn3hHk1aQ2WNzVuUyq8mYLJPGrNuUv9rK3eDYCr6aSyYpsz8PieVmfrPhR/Y0CwTd46oy81WHhPBUaQyNI88K0N/5dt7nsjheh12503Xyg150NzQ1+ykleGqgoQAQhAEooSFkCiaIDPgEih90709oy31v6nDbPvcuOmFwMmV0VkIJEKxH4EaoBvZOqTVqrVJXTUX6SAC4VvqnQuo9SlK/UGfPo8rT/xua+fqPMlWeRE55DxtSQsb3bUWBcc+iQ2mrq3QhOR3SjvboBdmxrdjSEwbgEwzaHznyY/FN8owSrsPkJgbtTCot7PqnCpfutCE/ylpacZHG+vUCraAN+E/PwGhZ4hYYhJ8EbneZ3p1+aiuxXgV+gh8JCqrJD8t6C4QqXy1HBV4M1xzdYpGFTv8lyy+Gt7knev59i7RY05bPnScry/9/3UDxv+Lf5oAun/Sxvy8pdOCTuPgNcDOZLe7O1PysN8RTmcJ+E0KHD6kud+Z9noi3ylfpXd65+rFc2Y9d5Qx7367jlz7493VKy59y/xv9zW2X7K0q2Py5Xfl/WIvxjd3aMehijQrQ8QVS544lnkvO86T8fXLkohqKhURixqMmqkYQYydw5QGkbIxiV+2EWAgdK0es4moo5oeiAUQcIXjuGIphBDgPDzf7RUmL5aHoAoACJ4HuNkKxsDp1XicjKFCUJJSHmy1YW0ELNF8hzGo0uAWfjAJjfOXmjyOBq/CQqLI0iQK7WySs4VqaULsSJICGidNITwk6VgLaaJevQrVVdE3bI4wiQ0DC1UivxvxOYehfYC3a6FHTJQcoO4o8uVhyQr2WErS4U3V5E8/dziczrkbYS6DrNqvC5dB3Aq1eTARGnZUidKhdFi0WRLTSpmq3tOQ01kJhrFwxVc/fnVaiFUZJd5uAQwEz4POg1H23US2bQdrBggyPNV4aDiINjXW6Nih1D93v6ynKFkltJ3kwwr124j4CwRkmUbLP9WOF7mr/cjbzbpkPikHFy4FaLA/v/QhvXwu3noFk3iVNdekQPKg65slq+qRjEHoHrh/LNONYJK/ypBL1bj2lDC4JOlsjrJlBEnlNv+l1O4rVN7R20TQwwZyEOZH8xFZKoH+RmPMTPLyES8J9vOpqmZqbakJ6oN0GmWL06TD06KGuO2JQrmaHcJd7L9hFhbBEQjVapCHYJNFdjiniZiynAKuNtJ21IYG4W3W0qzDy1nGe9D94nFHUFSrQXDaJj9FE4MJUKs77SSXSu9MocMrNANlGhPN/0HX+FtvKHLGACxmJNjUS6bWOWCiC+iOwB0g5IT9WY4geHpuAKjhtMec0xij5ZoY4Qo/nj6GFGPkuXbaTSmwF/BAkoitOBNU93o1G+MeDuHS4drw2WHO/2pWdWrE2FKXrgH1ZzwLBg5gfuF7dvFnuZwXDJ9FBBV2bo4U4yozx4jGlNOvEeS1l7iaIE+GsbkTKOkRnrsdnnbZ3CmizXZShrPmo3pHd1YQAqT4NC97BpRYEsba02mmULuZflbsXXsyWIrbYjjYSoUzCx04E07GdqeVChGQqERg/DIJpAog6ixWssF/xCn2zikxHjaVyNqJ8KaSY7erJpmOxEhkYzyDvlkU7NSJGrDezNIkDz+5xRQzYxm0M9vkXDCUbQ/o1sUQCF1+uq8oScmJgxmHGJq53hxph7jYHYelzpJio9rWCxLZHPKiuWPPMKBOJlm+VCymNMR3WotK+PgIYlILMCEtch5sRgDSVCSdvnprdt/s7fY6NVpZGgetoCT32iDuUUXOc1Ac1yen3ikveWuovHcu67MZMFNot1yKd1nfa4v2uRNkdYwUB55pAy8bkGOjLBALXDygsIJaTs7BWxnCJ5R/BqpY1czfWKUqjBYm0LHVVr4Ks46JEC3x7McptgiZrBccAB4QJ/xNaic5ZwlV3qQeVsO8P8WHjBuNqc6AE/ctA0nNtFQJplJnS+RQ8CK2ieR/x+PhuYgQ0wqb3eo8jUBrGkgOAhV7yFj53Y4VerA7FopQsPtj3pC7VRoRSf9ZsfZxdvuMo4giPSMUoxkCGz9MDV5k2po65CA5tu34XncV7v39MLjA/srLL0fsC6JGRmF0RSDlce6TeyI/kDGRS9RIy0pIJRkuD9OJxYUBELGNVatUK36LWmc0Dz/W2fBXNWg5yiY5IByQ+EvWthMut8b5sDMJ9lWv76JfLpd8UfHMjsauePMtdQTFMHlE1kQsk37jURWtccBlt1FQySLNdKYtWPQkds5W8zeyJO9EqPIPIfDwiYOWBEtwUyIqpTSdvNxtZ6rne61yuY6b1oZinCaF1udU9vVjNdrBAzAfii6iwam75ldGQeMg0n50hMqtRYXKb+n0gbpVrthNzHHSLdquRRK6NV/CV+Tj3TCfBut1SeOCEseTQvWjtLnRVD73ZQjUt3A3Ie2e91Vw2HE8G2yrfI65ky4EyhRGqynZ6bkCTm9DJMWAHPUSan+lL5gcYomHIruAIU/MMtc4G5+TULSCu3k5H2uv6w39Z45ctfRsEyeb1ZgkfsZU361kSeGYb+7ifkr+QLFU1udHRikGEOPkWB1WMhMoygLRM369sw6maDztl1DRk7gZg2ZQDV1N0hr6U/ksZv1Rp834MldF//TLsp8tP/BPi1/xw7OdAcX+T+a/1yGYSH256nodgbgRP3QFPnmKAwcqYFoZihjRnjQoG5xRNCA12L6x8Vge8vc0Lzss9tLL6hkEPI0XKhnoGODkXXMGnyOSHZQPFatnpfg+xP+yDg/7/J7pd6HsOFfZwr+VXv7M3yu50SKm0eE4yEwKNwKVA5LRYS1vbIB8Iv83yX/xmWEfT2FHXdg01/8pTdHLTcJLXkrjfQ5TLhXigqtlogNLYb4n4JsZOs7lWM2XsI3M8/hQFfOKJOiAuQB3x5IKbwf49Ib62O7aYqXGKJ3v7gtJEpaDi8/qpOG/BHNxyxbsMO6rLEjyx0RPrkMgAeEDGK+SRoLl2jZHU24AdKN3YbdXXkVmGYilAYJ04V0BOHVTNvEF1M5CLta/2hbOSs+2kxrSEGIEWmsndqX9oI4zrHRbXqUlcpen1AYlmNTLQ4tdo+uqxGHr0JdWv+uyvTXpVHLqO3c0RO7iTz4/Eh82amouHNH3+TsujbbO6oDqtYNaWTTKFzt4TsP7AZLvt40j3jesd+OyTF8+ePLpzS1w67JZzXjQbStbc4Z1+koEJ01+Ab48U96766S0QKyR9cYEgqI50Yx7nEwOSk5jBrngkCXVJOkNLa24XROer+UtPyqxSIKugwU7LV+lku9OjbPHCX/6XuArQMkBCWtD3ADfzqCfJ9KISwZc9TgbYh63rNYwCYTjNGcj9/A8FGCIU401WarCICtIE6Lu081BFk6Ut9WZgb6DfrViOR8OyU8/iyNFScPY59w+jXkC8LEEVgG3ge6FhWszHv7PWbcnOh2RPIlzJeyGS+AhixrU60X88weYFFdLSrGPKGL3NNllxA7N6xEj4HgECiHj29nHJkU/2pT+0UfoO4PcPf4Pg98uZnm9JfuQslJPhiZV/OAMABH8ytvlrHu1/60dATp2o3mSYxoGuDHaZk0nP55s+7wvPmHKyeEd7yp2Ocr77HArkT7uR51YtoBFyqqcCvMIv/Lz/awoFbXgI8JMzpVPMkpMcGtSEKooja3Knl8/Av9cWzMVMXLl8/e9bcXbcvrz07z7uT87flxa/KRKW4v54yh4+ZNdfOOH8+ZnbnkDwxN35K5J8Exqgr7yfvEz8785Vzj/XLeiLg4W5TPqnpSdXL/wJQOgYU8/V69gvggiwfyjAapUCS6msOh7482t24XAAhQNwqMYDuA6Is0i6685ikj1wFqfOs2fxCgJ2lkxmUHSWQAzazpJzBeazkkKMxx+JZDXh57oELVsT4rbEJUJUpUKlGmULXkUZ0bgDFrjBPRZiI8qls8CHMwHgkQ6VTIeo4i5j95AwkVqdHHwZHdqkXLklbl55lJ2Ow8/9Fo8oHnCGvNYMu+jiRBoHfFSUL4nysdljdXQqfIeadX15vU7NapOUSZvW1YjHJ5nWI90ufaLZ8TKAgVBAULqDoQUZYVCx9Ev29RIFLUZuSPdf5+bj80maXMYbbSK+pE7E1KWBpq3gYxoW5YpBYsGe+5TnsBA34REnURSAE0LxCLQb06OfaMiyoF6/tV8HShvGBJUUsXqamdeGwWMs3VV6dr6ytdIjlKObex1GCGJAk9lRbOGFOTqYLwceDjKsKHUx8SXX13+IQb9wjAPgfwiganJaXHnfHZ7cN30z0glHb8K/s82yuxnk2+8AOiqbG7TfXcfWxMFqqHXjkrFyJFNcmWE0e7Ot63pe+zp54vYn/pZ7bm5NtrpEJiGhtDRIZwaz3gcH+kNJR+2dvkkc9ZpETqU/fJeGeQX0g6zrquW4e7SDUHUPfhu/Tk83Wkoczu5s6Oqe2WTJ2nu0fe56/PWcqjzJzg59EwAAAA==") format("woff2");
         font-style: normal;
         font-weight: 400;
     }
-    @font-face {
-        font-family: "Fira Code";
-        src: local("FiraCode-Bold"),
-                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
-                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
-        font-style: bold;
-        font-weight: 700;
-    }
 
-    .terminal-275641897-matrix {
+    .rich-codex-1340806427-matrix {
         font-family: Fira Code, monospace;
         font-size: 20px;
         line-height: 24.4px;
         font-variant-east-asian: full-width;
     }
 
-    .terminal-275641897-title {
+    .rich-codex-1340806427-title {
         font-size: 18px;
         font-weight: bold;
         font-family: arial;
     }
 
-    .terminal-275641897-r1 { fill: #c5c8c6 }
-.terminal-275641897-r2 { fill: #98a84b }
-.terminal-275641897-r3 { fill: #9a9b99 }
-.terminal-275641897-r4 { fill: #608ab1 }
-.terminal-275641897-r5 { fill: #d0b344 }
+    .rich-codex-1340806427-r1 { fill: #c5c8c6 }
+.rich-codex-1340806427-r2 { fill: #98a84b }
+.rich-codex-1340806427-r3 { fill: #9a9b99 }
+.rich-codex-1340806427-r4 { fill: #608ab1 }
+.rich-codex-1340806427-r5 { fill: #d0b344 }
     </style>
 
     <defs>
-    <clipPath id="terminal-275641897-clip-terminal">
-      <rect x="0" y="0" width="1219.0" height="511.4" />
+    <clipPath id="rich-codex-1340806427-clip-terminal">
+      <rect x="0" y="0" width="1219.0" height="535.8" />
     </clipPath>
-    <clipPath id="terminal-275641897-line-0">
+    <clipPath id="rich-codex-1340806427-line-0">
     <rect x="0" y="1.5" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-1">
+<clipPath id="rich-codex-1340806427-line-1">
     <rect x="0" y="25.9" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-2">
+<clipPath id="rich-codex-1340806427-line-2">
     <rect x="0" y="50.3" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-3">
+<clipPath id="rich-codex-1340806427-line-3">
     <rect x="0" y="74.7" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-4">
+<clipPath id="rich-codex-1340806427-line-4">
     <rect x="0" y="99.1" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-5">
+<clipPath id="rich-codex-1340806427-line-5">
     <rect x="0" y="123.5" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-6">
+<clipPath id="rich-codex-1340806427-line-6">
     <rect x="0" y="147.9" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-7">
+<clipPath id="rich-codex-1340806427-line-7">
     <rect x="0" y="172.3" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-8">
+<clipPath id="rich-codex-1340806427-line-8">
     <rect x="0" y="196.7" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-9">
+<clipPath id="rich-codex-1340806427-line-9">
     <rect x="0" y="221.1" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-10">
+<clipPath id="rich-codex-1340806427-line-10">
     <rect x="0" y="245.5" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-11">
+<clipPath id="rich-codex-1340806427-line-11">
     <rect x="0" y="269.9" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-12">
+<clipPath id="rich-codex-1340806427-line-12">
     <rect x="0" y="294.3" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-13">
+<clipPath id="rich-codex-1340806427-line-13">
     <rect x="0" y="318.7" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-14">
+<clipPath id="rich-codex-1340806427-line-14">
     <rect x="0" y="343.1" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-15">
+<clipPath id="rich-codex-1340806427-line-15">
     <rect x="0" y="367.5" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-16">
+<clipPath id="rich-codex-1340806427-line-16">
     <rect x="0" y="391.9" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-17">
+<clipPath id="rich-codex-1340806427-line-17">
     <rect x="0" y="416.3" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-18">
+<clipPath id="rich-codex-1340806427-line-18">
     <rect x="0" y="440.7" width="1220" height="24.65"/>
             </clipPath>
-<clipPath id="terminal-275641897-line-19">
+<clipPath id="rich-codex-1340806427-line-19">
     <rect x="0" y="465.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="rich-codex-1340806427-line-20">
+    <rect x="0" y="489.5" width="1220" height="24.65"/>
             </clipPath>
     </defs>
 
-    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1236" height="560.4" rx="8"/>
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1236" height="584.8" rx="8"/>
             <g transform="translate(26,22)">
             <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
             <circle cx="22" cy="0" r="7" fill="#febc2e"/>
             <circle cx="44" cy="0" r="7" fill="#28c840"/>
             </g>
         
-    <g transform="translate(9, 41)" clip-path="url(#terminal-275641897-clip-terminal)">
+    <g transform="translate(9, 41)" clip-path="url(#rich-codex-1340806427-clip-terminal)">
     
-    <g class="terminal-275641897-matrix">
-    <text class="terminal-275641897-r1" x="0" y="20" textLength="1122.4" clip-path="url(#terminal-275641897-line-0)">$ cd tmp &amp;&amp; nf-core pipelines download rnaseq -r 3.8 --outdir nf-core-rnaseq -x none -s none</text><text class="terminal-275641897-r1" x="1220" y="20" textLength="12.2" clip-path="url(#terminal-275641897-line-0)">
-</text><text class="terminal-275641897-r1" x="1220" y="44.4" textLength="12.2" clip-path="url(#terminal-275641897-line-1)">
-</text><text class="terminal-275641897-r1" x="1220" y="68.8" textLength="12.2" clip-path="url(#terminal-275641897-line-2)">
-</text><text class="terminal-275641897-r2" x="0" y="93.2" textLength="561.2" clip-path="url(#terminal-275641897-line-3)">                                          ,--.</text><text class="terminal-275641897-r3" x="561.2" y="93.2" textLength="12.2" clip-path="url(#terminal-275641897-line-3)">/</text><text class="terminal-275641897-r2" x="573.4" y="93.2" textLength="36.6" clip-path="url(#terminal-275641897-line-3)">,-.</text><text class="terminal-275641897-r1" x="1220" y="93.2" textLength="12.2" clip-path="url(#terminal-275641897-line-3)">
-</text><text class="terminal-275641897-r4" x="0" y="117.6" textLength="500.2" clip-path="url(#terminal-275641897-line-4)">          ___     __   __   __   ___     </text><text class="terminal-275641897-r2" x="500.2" y="117.6" textLength="134.2" clip-path="url(#terminal-275641897-line-4)">/,-._.--~\ </text><text class="terminal-275641897-r1" x="1220" y="117.6" textLength="12.2" clip-path="url(#terminal-275641897-line-4)">
-</text><text class="terminal-275641897-r4" x="0" y="142" textLength="500.2" clip-path="url(#terminal-275641897-line-5)">    |\ | |__  __ /  ` /  \ |__) |__      </text><text class="terminal-275641897-r5" x="500.2" y="142" textLength="85.4" clip-path="url(#terminal-275641897-line-5)">   }  {</text><text class="terminal-275641897-r1" x="1220" y="142" textLength="12.2" clip-path="url(#terminal-275641897-line-5)">
-</text><text class="terminal-275641897-r4" x="0" y="166.4" textLength="500.2" clip-path="url(#terminal-275641897-line-6)">    | \| |       \__, \__/ |  \ |___     </text><text class="terminal-275641897-r2" x="500.2" y="166.4" textLength="122" clip-path="url(#terminal-275641897-line-6)">\`-._,-`-,</text><text class="terminal-275641897-r1" x="1220" y="166.4" textLength="12.2" clip-path="url(#terminal-275641897-line-6)">
-</text><text class="terminal-275641897-r2" x="0" y="190.8" textLength="610" clip-path="url(#terminal-275641897-line-7)">                                          `._,._,'</text><text class="terminal-275641897-r1" x="1220" y="190.8" textLength="12.2" clip-path="url(#terminal-275641897-line-7)">
-</text><text class="terminal-275641897-r1" x="1220" y="215.2" textLength="12.2" clip-path="url(#terminal-275641897-line-8)">
-</text><text class="terminal-275641897-r3" x="0" y="239.6" textLength="414.8" clip-path="url(#terminal-275641897-line-9)">    nf-core/tools version 3.5.2 - </text><text class="terminal-275641897-r3" x="414.8" y="239.6" textLength="195.2" clip-path="url(#terminal-275641897-line-9)">https://nf-co.re</text><text class="terminal-275641897-r1" x="1220" y="239.6" textLength="12.2" clip-path="url(#terminal-275641897-line-9)">
-</text><text class="terminal-275641897-r1" x="1220" y="264" textLength="12.2" clip-path="url(#terminal-275641897-line-10)">
-</text><text class="terminal-275641897-r1" x="1220" y="288.4" textLength="12.2" clip-path="url(#terminal-275641897-line-11)">
-</text><text class="terminal-275641897-r5" x="0" y="312.8" textLength="97.6" clip-path="url(#terminal-275641897-line-12)">WARNING </text><text class="terminal-275641897-r1" x="97.6" y="312.8" textLength="1122.4" clip-path="url(#terminal-275641897-line-12)"> Could not find GitHub authentication token. Some API requests may fail.                    </text><text class="terminal-275641897-r1" x="1220" y="312.8" textLength="12.2" clip-path="url(#terminal-275641897-line-12)">
-</text><text class="terminal-275641897-r4" x="0" y="337.2" textLength="97.6" clip-path="url(#terminal-275641897-line-13)">INFO    </text><text class="terminal-275641897-r1" x="97.6" y="337.2" textLength="97.6" clip-path="url(#terminal-275641897-line-13)"> Saving </text><text class="terminal-275641897-r2" x="195.2" y="337.2" textLength="195.2" clip-path="url(#terminal-275641897-line-13)">'nf-core/rnaseq'</text><text class="terminal-275641897-r1" x="1220" y="337.2" textLength="12.2" clip-path="url(#terminal-275641897-line-13)">
-</text><text class="terminal-275641897-r1" x="0" y="361.6" textLength="341.6" clip-path="url(#terminal-275641897-line-14)">         Pipeline revision: </text><text class="terminal-275641897-r2" x="341.6" y="361.6" textLength="61" clip-path="url(#terminal-275641897-line-14)">'3.8'</text><text class="terminal-275641897-r1" x="1220" y="361.6" textLength="12.2" clip-path="url(#terminal-275641897-line-14)">
-</text><text class="terminal-275641897-r1" x="0" y="386" textLength="305" clip-path="url(#terminal-275641897-line-15)">         Use containers: </text><text class="terminal-275641897-r2" x="305" y="386" textLength="73.2" clip-path="url(#terminal-275641897-line-15)">'none'</text><text class="terminal-275641897-r1" x="1220" y="386" textLength="12.2" clip-path="url(#terminal-275641897-line-15)">
-</text><text class="terminal-275641897-r1" x="0" y="410.4" textLength="341.6" clip-path="url(#terminal-275641897-line-16)">         Container library: </text><text class="terminal-275641897-r2" x="341.6" y="410.4" textLength="109.8" clip-path="url(#terminal-275641897-line-16)">'quay.io'</text><text class="terminal-275641897-r1" x="1220" y="410.4" textLength="12.2" clip-path="url(#terminal-275641897-line-16)">
-</text><text class="terminal-275641897-r1" x="0" y="434.8" textLength="329.4" clip-path="url(#terminal-275641897-line-17)">         Output directory: </text><text class="terminal-275641897-r2" x="329.4" y="434.8" textLength="195.2" clip-path="url(#terminal-275641897-line-17)">'nf-core-rnaseq'</text><text class="terminal-275641897-r1" x="1220" y="434.8" textLength="12.2" clip-path="url(#terminal-275641897-line-17)">
-</text><text class="terminal-275641897-r1" x="0" y="459.2" textLength="658.8" clip-path="url(#terminal-275641897-line-18)">         Include default institutional configuration: </text><text class="terminal-275641897-r2" x="658.8" y="459.2" textLength="85.4" clip-path="url(#terminal-275641897-line-18)">'False'</text><text class="terminal-275641897-r1" x="1220" y="459.2" textLength="12.2" clip-path="url(#terminal-275641897-line-18)">
-</text><text class="terminal-275641897-r4" x="0" y="483.6" textLength="97.6" clip-path="url(#terminal-275641897-line-19)">INFO    </text><text class="terminal-275641897-r1" x="97.6" y="483.6" textLength="1122.4" clip-path="url(#terminal-275641897-line-19)"> Downloading workflow                                                                       </text><text class="terminal-275641897-r1" x="1220" y="483.6" textLength="12.2" clip-path="url(#terminal-275641897-line-19)">
-</text><text class="terminal-275641897-r4" x="0" y="508" textLength="97.6" clip-path="url(#terminal-275641897-line-20)">INFO    </text><text class="terminal-275641897-r1" x="97.6" y="508" textLength="1122.4" clip-path="url(#terminal-275641897-line-20)"> Downloading workflow files from GitHub                                                     </text><text class="terminal-275641897-r1" x="1220" y="508" textLength="12.2" clip-path="url(#terminal-275641897-line-20)">
+    <g class="rich-codex-1340806427-matrix">
+    <text class="rich-codex-1340806427-r1" x="0" y="20" textLength="1122.4" clip-path="url(#rich-codex-1340806427-line-0)">$ cd tmp &amp;&amp; nf-core pipelines download rnaseq -r 3.8 --outdir nf-core-rnaseq -x none -s none</text><text class="rich-codex-1340806427-r1" x="1220" y="20" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-0)">
+</text><text class="rich-codex-1340806427-r1" x="1220" y="44.4" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-1)">
+</text><text class="rich-codex-1340806427-r1" x="1220" y="68.8" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-2)">
+</text><text class="rich-codex-1340806427-r2" x="0" y="93.2" textLength="561.2" clip-path="url(#rich-codex-1340806427-line-3)">                                          ,--.</text><text class="rich-codex-1340806427-r3" x="561.2" y="93.2" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-3)">/</text><text class="rich-codex-1340806427-r2" x="573.4" y="93.2" textLength="36.6" clip-path="url(#rich-codex-1340806427-line-3)">,-.</text><text class="rich-codex-1340806427-r1" x="1220" y="93.2" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-3)">
+</text><text class="rich-codex-1340806427-r4" x="0" y="117.6" textLength="500.2" clip-path="url(#rich-codex-1340806427-line-4)">          ___     __   __   __   ___     </text><text class="rich-codex-1340806427-r2" x="500.2" y="117.6" textLength="134.2" clip-path="url(#rich-codex-1340806427-line-4)">/,-._.--~\ </text><text class="rich-codex-1340806427-r1" x="1220" y="117.6" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-4)">
+</text><text class="rich-codex-1340806427-r4" x="0" y="142" textLength="500.2" clip-path="url(#rich-codex-1340806427-line-5)">    |\ | |__  __ /  ` /  \ |__) |__      </text><text class="rich-codex-1340806427-r5" x="500.2" y="142" textLength="85.4" clip-path="url(#rich-codex-1340806427-line-5)">   }  {</text><text class="rich-codex-1340806427-r1" x="1220" y="142" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-5)">
+</text><text class="rich-codex-1340806427-r4" x="0" y="166.4" textLength="500.2" clip-path="url(#rich-codex-1340806427-line-6)">    | \| |       \__, \__/ |  \ |___     </text><text class="rich-codex-1340806427-r2" x="500.2" y="166.4" textLength="122" clip-path="url(#rich-codex-1340806427-line-6)">\`-._,-`-,</text><text class="rich-codex-1340806427-r1" x="1220" y="166.4" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-6)">
+</text><text class="rich-codex-1340806427-r2" x="0" y="190.8" textLength="610" clip-path="url(#rich-codex-1340806427-line-7)">                                          `._,._,'</text><text class="rich-codex-1340806427-r1" x="1220" y="190.8" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-7)">
+</text><text class="rich-codex-1340806427-r1" x="1220" y="215.2" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-8)">
+</text><text class="rich-codex-1340806427-r3" x="0" y="239.6" textLength="414.8" clip-path="url(#rich-codex-1340806427-line-9)">    nf-core/tools version 4.2.2 - </text><text class="rich-codex-1340806427-r3" x="414.8" y="239.6" textLength="195.2" clip-path="url(#rich-codex-1340806427-line-9)">https://nf-co.re</text><text class="rich-codex-1340806427-r1" x="1220" y="239.6" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-9)">
+</text><text class="rich-codex-1340806427-r1" x="1220" y="264" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-10)">
+</text><text class="rich-codex-1340806427-r1" x="1220" y="288.4" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-11)">
+</text><text class="rich-codex-1340806427-r5" x="0" y="312.8" textLength="97.6" clip-path="url(#rich-codex-1340806427-line-12)">WARNING </text><text class="rich-codex-1340806427-r1" x="97.6" y="312.8" textLength="1122.4" clip-path="url(#rich-codex-1340806427-line-12)"> Could not find GitHub authentication token. Some API requests may fail.                    </text><text class="rich-codex-1340806427-r1" x="1220" y="312.8" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-12)">
+</text><text class="rich-codex-1340806427-r4" x="0" y="337.2" textLength="97.6" clip-path="url(#rich-codex-1340806427-line-13)">INFO    </text><text class="rich-codex-1340806427-r1" x="97.6" y="337.2" textLength="97.6" clip-path="url(#rich-codex-1340806427-line-13)"> Saving </text><text class="rich-codex-1340806427-r2" x="195.2" y="337.2" textLength="195.2" clip-path="url(#rich-codex-1340806427-line-13)">'nf-core/rnaseq'</text><text class="rich-codex-1340806427-r1" x="1220" y="337.2" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-13)">
+</text><text class="rich-codex-1340806427-r1" x="0" y="361.6" textLength="341.6" clip-path="url(#rich-codex-1340806427-line-14)">         Pipeline revision: </text><text class="rich-codex-1340806427-r2" x="341.6" y="361.6" textLength="61" clip-path="url(#rich-codex-1340806427-line-14)">'3.8'</text><text class="rich-codex-1340806427-r1" x="1220" y="361.6" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-14)">
+</text><text class="rich-codex-1340806427-r1" x="0" y="386" textLength="305" clip-path="url(#rich-codex-1340806427-line-15)">         Use containers: </text><text class="rich-codex-1340806427-r2" x="305" y="386" textLength="73.2" clip-path="url(#rich-codex-1340806427-line-15)">'none'</text><text class="rich-codex-1340806427-r1" x="1220" y="386" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-15)">
+</text><text class="rich-codex-1340806427-r1" x="0" y="410.4" textLength="341.6" clip-path="url(#rich-codex-1340806427-line-16)">         Container library: </text><text class="rich-codex-1340806427-r2" x="341.6" y="410.4" textLength="109.8" clip-path="url(#rich-codex-1340806427-line-16)">'quay.io'</text><text class="rich-codex-1340806427-r1" x="1220" y="410.4" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-16)">
+</text><text class="rich-codex-1340806427-r1" x="0" y="434.8" textLength="329.4" clip-path="url(#rich-codex-1340806427-line-17)">         Output directory: </text><text class="rich-codex-1340806427-r2" x="329.4" y="434.8" textLength="195.2" clip-path="url(#rich-codex-1340806427-line-17)">'nf-core-rnaseq'</text><text class="rich-codex-1340806427-r1" x="1220" y="434.8" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-17)">
+</text><text class="rich-codex-1340806427-r1" x="0" y="459.2" textLength="658.8" clip-path="url(#rich-codex-1340806427-line-18)">         Include default institutional configuration: </text><text class="rich-codex-1340806427-r2" x="658.8" y="459.2" textLength="85.4" clip-path="url(#rich-codex-1340806427-line-18)">'False'</text><text class="rich-codex-1340806427-r1" x="1220" y="459.2" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-18)">
+</text><text class="rich-codex-1340806427-r4" x="0" y="483.6" textLength="97.6" clip-path="url(#rich-codex-1340806427-line-19)">INFO    </text><text class="rich-codex-1340806427-r1" x="97.6" y="483.6" textLength="1122.4" clip-path="url(#rich-codex-1340806427-line-19)"> Downloading workflow                                                                       </text><text class="rich-codex-1340806427-r1" x="1220" y="483.6" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-19)">
+</text><text class="rich-codex-1340806427-r4" x="0" y="508" textLength="97.6" clip-path="url(#rich-codex-1340806427-line-20)">INFO    </text><text class="rich-codex-1340806427-r1" x="97.6" y="508" textLength="1122.4" clip-path="url(#rich-codex-1340806427-line-20)"> Downloading workflow files from GitHub                                                     </text><text class="rich-codex-1340806427-r1" x="1220" y="508" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-20)">
+</text><text class="rich-codex-1340806427-r1" x="1220" y="532.4" textLength="12.2" clip-path="url(#rich-codex-1340806427-line-21)">
 </text>
     </g>
     </g>

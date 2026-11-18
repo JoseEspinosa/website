@@ -63,7 +63,7 @@ export function sortByStatus(a: { status: string }, b: { status: string }): numb
 
 // Escape characters that would break markdown link text.
 function mdText(s: string): string {
-    return s.replace(/([\[\]])/g, "\\$1");
+    return s.replace(/([[\]])/g, "\\$1");
 }
 
 /**
@@ -181,14 +181,14 @@ export function renderNewsletterMarkdown(data: any): string {
         if (data.pipelineProposals.length) {
             lines.push("### Pipeline proposals", "");
             lines.push("From [nf-core/proposals](https://github.com/nf-core/proposals/issues).", "");
-            for (const p of [...data.pipelineProposals].sort(sortByStatus)) {
+            for (const p of data.pipelineProposals.toSorted(sortByStatus)) {
                 lines.push(`- [${mdText(p.displayTitle)}](${p.url}) — ${proposalStatus(p)} (#${p.number})`);
             }
             lines.push("");
         }
         if (data.otherProposals.length) {
             lines.push("### Other proposals", "");
-            for (const p of [...data.otherProposals].sort(sortByStatus)) {
+            for (const p of data.otherProposals.toSorted(sortByStatus)) {
                 lines.push(`- [${mdText(p.displayTitle)}](${p.url}) — ${proposalStatus(p)} (#${p.number})`);
             }
             lines.push("");

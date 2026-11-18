@@ -8,7 +8,6 @@
         label?: string | number;
         size?: number;
         strokeWidth?: number;
-        href?: string;
         title?: string;
         isCurrent?: boolean;
         onScroll?: boolean;
@@ -20,12 +19,11 @@
         label = "",
         size = 40,
         strokeWidth = 10,
-        href = "#",
         title = "",
         isCurrent = false,
         onScroll = false,
         confetti = false,
-    } = $props();
+    }: Props = $props();
 
     // Calculate the circumference of the circle
     const circumference = $derived(2 * Math.PI * (size - strokeWidth));
@@ -79,8 +77,10 @@
             class:d-none={progress === 100}
             dominant-baseline="central"
             text-anchor="middle"
-            style="fill: var(--bs-body-color)">{label}</text
+            style="fill: var(--bs-body-color)"
         >
+            {label}
+        </text>
         <text
             x="50%"
             y="50%"
@@ -89,8 +89,10 @@
             class="success"
             dominant-baseline="central"
             text-anchor="middle"
-            style="fill: var(--bs-success)">{label}</text
+            style="fill: var(--bs-success)"
         >
+            {label}
+        </text>
     </svg>
     {#if title}
         <span class="ms-1">{title}</span>

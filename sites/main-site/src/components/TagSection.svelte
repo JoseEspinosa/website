@@ -5,19 +5,10 @@
         maxShown?: number;
         includes?: boolean;
         included?: boolean;
-        inline?: boolean;
         onTagClick?: (tag: string) => void;
     }
 
-    let {
-        tags,
-        maxShown = 0,
-        type,
-        inline = false,
-        includes = false,
-        included = false,
-        onTagClick = undefined,
-    }: Props = $props();
+    let { tags, maxShown = 0, type, includes = false, included = false, onTagClick = undefined }: Props = $props();
     let expanded = $state(false);
 
     const typeSpecificClasses = $derived(
@@ -78,9 +69,9 @@
             {#if expanded}
                 <span class="text-small">hide</span>
             {:else}
-                <span class="text-small"
-                    >and {additionalTagsCount} more {additionalTagsCount === 1 ? type.slice(0, -1) : type}</span
-                >
+                <span class="text-small">
+                    and {additionalTagsCount} more {additionalTagsCount === 1 ? type.slice(0, -1) : type}
+                </span>
             {/if}
         </span>
     {/if}
@@ -94,5 +85,9 @@
     .tag-button:hover,
     .tag-button:focus-visible {
         text-decoration: underline;
+    }
+    a.badge:hover,
+    a.badge:focus-visible {
+        text-decoration: underline !important;
     }
 </style>

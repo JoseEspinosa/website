@@ -32,12 +32,12 @@
 <ListingCard>
     {#snippet cardHeader()}
         <div>
-            <a class="text-decoration-none d-flex align-items-center" {href}
-                >{@html displayName}
+            <a class="text-decoration-none d-flex align-items-center" {href}>
+                {@html displayName}
                 {#if component.meta.deprecated}
                     <small class="badge text-bg-danger text-small ms-auto">deprecated</small>
-                {/if}</a
-            >
+                {/if}
+            </a>
         </div>
     {/snippet}
 
@@ -54,16 +54,16 @@
                 <TagSection tags={component.meta.keywords} type="keywords" onTagClick={filterByKeyword} />
             {/if}
             {#if pipelineNames}
-                <TagSection tags={pipelineNames} type="pipelines" maxShown={3} included inline />
+                <TagSection tags={pipelineNames} type="pipelines" maxShown={3} included />
             {/if}
             {#if component.type !== "module" && component.meta.components}
-                <TagSection tags={component.meta.components} type="modules" maxShown={3} includes inline />
+                <TagSection tags={component.meta.components} type="modules" maxShown={3} includes />
             {/if}
             {#if component.subworkflows}
-                <TagSection tags={component.subworkflows} type="subworkflows" maxShown={3} included inline />
+                <TagSection tags={component.subworkflows} type="subworkflows" maxShown={3} included />
             {/if}
             {#if component.meta.modules}
-                <TagSection tags={component.meta.modules} type="modules" maxShown={3} includes inline />
+                <TagSection tags={component.meta.modules} type="modules" maxShown={3} includes />
             {/if}
         </div>
     {/snippet}

@@ -1,6 +1,6 @@
-# merge\_markers
+# merge_markers
 
-#### `PipelineLint.merge_markers(){:python}`
+#### `PipelineLint.merge_markers() → dict[str, list[str]]{:python}`
 
 Check for remaining merge markers.
 
